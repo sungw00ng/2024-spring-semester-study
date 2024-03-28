@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td>스터디 진행 기간</td>
-    <td>2024년 03월 25일 ~ 2024년 06월 25일</td>
+    <td>2024년 03월 28일 ~ 2024년 06월 25일</td>
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>그룹 스터디 룸</td>
+    <td>W6 303호</td>
   </tr>
   <tr>
     <td>스터디 시간</td>
@@ -32,8 +32,8 @@
     <td align="center"><a href="https://github.com/deokh01"><img src="https://avatars.githubusercontent.com/deokh01" width="200px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/dryflowery"><b>dryflowery</b></a></td>
-    <td align="center"><a href="https://github.com/pleasedontsee12"><b>pleasedontsee12</b></a></td>
+    <td align="center"><a href="https://github.com/dryflowery"><b>Sechan Lee</b></a></td>
+    <td align="center"><a href="https://github.com/pleasedontsee12"><b>Hyungju Chae</b></a></td>
     <td align="center"><a href="https://github.com/deokh01"><b>deokh01</b></a></td>
   </tr>
 </table>
@@ -47,11 +47,11 @@
 <br>
 
 # 🔈 스터디 진행 방식
-1. 매주 알고리즘 2명, 백엔드 2명 나눠서 발표. **발표자가 아닌 사람도 각 주제에 대해 공부해와야 함.**
+1. 매주 알고리즘 2명, 백엔드 3명 나눠서 발표. **발표자가 아닌 사람도 각 주제에 대해 공부해와야 함.**
 2. 알고리즘 발표 내용은 **이론 + 응용 문제 1~2개**로 구성.
 3. 백엔드 발표 내용은 **공부하면서 중요하다고 생각한 것, 몰랐던 것, 모르는 것 등 자율적으로 구성.**
 4. 발표 후 질문, 피드백 등 진행.
-5. 모임 전날까지 개인 블로그에 발표 자료 업로드하기
+5. 모임 전날까지 깃허브에 발표 자료 업로드하기
 6. **9~10회차에는 각자 백엔드 토이 프로젝트 진행 후 발표.**
 
 <br>
@@ -70,3 +70,13 @@
 |⬜ 8회차(6/6)|[❓, ❓]|벨만-포드, 플로이드-워셜|MVC 1 ▶️ 섹션 8|
 |⬜ 9회차(6/13)|전부|트리, MST, 이분 탐색, 누적 합, 투 포인터|❌|
 |⬜ 10회차|❌|❌|프로젝트 발표|
+
+<br>
+
+# ⚠️ PR 규칙
+
+```
+[날짜] {N주차 발표자료} 
+```
+
+- 💡 예시: `[240328] 1주차 발표자료`
