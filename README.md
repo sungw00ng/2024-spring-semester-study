@@ -34,7 +34,7 @@
   <tr>
     <td align="center"><a href="https://github.com/dryflowery"><b>Sechan Lee</b></a></td>
     <td align="center"><a href="https://github.com/pleasedontsee12"><b>Hyungju Chae</b></a></td>
-    <td align="center"><a href="https://github.com/deokh01"><b>Deokhyun Kim</b></a></td>
+    <td align="center"><a href="https://github.com/deokh01"><b>Deokhyeon Kim</b></a></td>
   </tr>
 </table>
 
