@@ -31,12 +31,14 @@
     <td align="center"><a href="https://github.com/pleasedontsee12"><img src="https://avatars.githubusercontent.com/pleasedontsee12" width="200px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/deokh01"><img src="https://avatars.githubusercontent.com/deokh01" width="200px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sungw00ng"><img src="https://avatars.githubusercontent.com/sungw00ng" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jihan2hal"><img src="https://avatars.githubusercontent.com/jihan2hal" width="200px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dryflowery"><b>Sechan Lee</b></a></td>
     <td align="center"><a href="https://github.com/pleasedontsee12"><b>Hyungju Chae</b></a></td>
     <td align="center"><a href="https://github.com/deokh01"><b>Deokhyeon Kim</b></a></td>
     <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Park</b></a></td>
+    <td align="center"><a href="https://github.com/jihan2hal"><b>Choiji Han</b></a></td>
   </tr>
 </table>
 
@@ -62,7 +64,7 @@
 |주차|알고리즘|백엔드|
 |----|--------|---------|
 |✅ OT(3/28)|❌|❌|
-|⬜ 1회차(4/4)|❌|스프링 입문 ▶️ 섹션 8|
+|✅ 1회차(4/4)|❌|스프링 입문 ▶️ 섹션 8|
 |⬜ 2회차(4/10)|스택, 큐|스프링 기본 ▶️ 섹션 3|
 |⬜ 3회차(5/2)|덱, 우선순위 큐|스프링 기본 ▶️ 섹션 6|
 |⬜ 4회차(5/9)|해시, 브루트 포스|스프링 기본 ▶️ 섹션 10|
@@ -79,7 +81,7 @@
 |주차|알고리즘|백엔드|휴식|
 |----|--------|-----|---|
 |✅ OT(3/28)|❌|❌|❌|
-|⬜ 1회차(4/4)|❌|휴식 제외 전부|김덕현|
+|✅ 1회차(4/4)|❌|휴식 제외 전부|김덕현|
 |⬜ 2회차(4/10)|이세찬, 김덕현|채형주, 박성웅, 최지한|정지오|
 |⬜ 3회차(5/2)|정지오, 채형주|이세찬, 김덕현, 최지한|박성웅|
 |⬜ 4회차(5/9)|박성웅, 최지한|이세찬, 김덕현, 정지오|채형주|
