@@ -27,18 +27,12 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/dryflowery"><img src="https://avatars.githubusercontent.com/dryflowery" width="200px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/pleasedontsee12"><img src="https://avatars.githubusercontent.com/pleasedontsee12" width="200px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/deokh01"><img src="https://avatars.githubusercontent.com/deokh01" width="200px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sungw00ng"><img src="https://avatars.githubusercontent.com/sungw00ng" width="200px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jihan2hal"><img src="https://avatars.githubusercontent.com/jihan2hal" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dryflowery"><img src="https://avatars.githubusercontent.com/sungw00ng" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jihan2hal"><img src="https://avatars.githubusercontent.com/hyuyu1012" width="200px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/dryflowery"><b>Sechan Lee</b></a></td>
-    <td align="center"><a href="https://github.com/pleasedontsee12"><b>Hyungju Chae</b></a></td>
-    <td align="center"><a href="https://github.com/deokh01"><b>Deokhyeon Kim</b></a></td>
-    <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Park</b></a></td>
-    <td align="center"><a href="https://github.com/jihan2hal"><b>Choiji Han</b></a></td>
+    <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Bak</b></a></td>
+    <td align="center"><a href="https://github.com/hyuyu1012"><b>Hyeon-gu Han</b></a></td>
   </tr>
 </table>
 
